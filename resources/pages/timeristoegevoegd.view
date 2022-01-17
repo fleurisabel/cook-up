@@ -1,0 +1,19 @@
+
+<svg viewport-fill="#1A1B1A">
+<use id="timer" href="#tile-list">
+  <var id="virtual" value="1" />
+  <var id="reorder-enabled" value="0"/>
+  <var id="peek-enabled" value="0"/>
+  <var id="separator-height-bottom" value="2" />
+
+  <arc x="25" y="25" width="280" height="280" fill="#EED1E1"
+    arc-width="10" start-angle="0" sweep-angle="360" />
+
+    <text id="gerecht" x="50%" y="30%"
+        fill="#EED1E1" font-size="20" font-family="System-Regular"
+        text-anchor="middle" text-length="30">gerecht</text>
+    <text id="countdown" x="50%" y="50%+15"
+        fill="#EED1E1" font-size="80" font-family="System-Regular"
+        text-anchor="middle" text-length="20">10:00</text>
+</use>
+</svg>

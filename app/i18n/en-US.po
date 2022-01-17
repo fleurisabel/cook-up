@@ -1,0 +1,29 @@
+msgid "groene_asperges"
+msgstr "Green asparagus"
+
+msgid "kruimige_aardappel"
+msgstr "Floury potatoes"
+
+msgid "vastkokende_aardappel"
+msgstr "Waxy potatoes"
+
+msgid "bloemkool"
+msgstr "Cauliflower"
+
+msgid "broccoli"
+msgstr "Broccoli"
+
+msgid "basmati_rijst"
+msgstr "Basmati rice"
+
+msgid "bulgur"
+msgstr "Bulgur"
+
+msgid "penne"
+msgstr "Penne"
+
+msgid "spaghetti"
+msgstr "Spaghetti"
+
+msgid "medium_gekookt_ei"
+msgstr "Medium boiled egg"

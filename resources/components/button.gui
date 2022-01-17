@@ -1,0 +1,6 @@
+<defs>
+  <symbol id="button" height="70">
+    <text id="text" fill="#EED1E1" x="50%" y="63%" font-size="20" font-family="System-Regular" text-anchor="middle" text-buffer="continue" />
+    <rect id="handle" fill="black" x="0" y="0" width="50%" height="70%" opacity="0" pointer-events="visible"/>
+  </symbol>
+</defs>

@@ -1,0 +1,29 @@
+msgid "groene_asperges"
+msgstr "Groene asperges"
+
+msgid "kruimige_aardappel"
+msgstr "Kruimige aardappels"
+
+msgid "vastkokende_aardappel"
+msgstr "Vastkokende aardappels"
+
+msgid "bloemkool"
+msgstr "Bloemkool"
+
+msgid "broccoli"
+msgstr "Broccoli"
+
+msgid "basmati_rijst"
+msgstr "Basmati rijst"
+
+msgid "bulgur"
+msgstr "Bulgur"
+
+msgid "penne"
+msgstr "Penne"
+
+msgid "spaghetti"
+msgstr "Spaghetti"
+
+msgid "medium_gekookt_ei"
+msgstr "Medium gekookt ei"

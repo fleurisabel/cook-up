@@ -1,0 +1,3 @@
+msgid "hello_world"
+msgstr "Hallo wereld!";
+  
